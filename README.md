@@ -1,7 +1,20 @@
-### Hi there 👋
+# [Jamiu Salimon](https://www.linkedin.com/in/dkmdebugin/)
+Software Development | Cloud/DevOps | Machine Learning
 
-At present, I am pursuing a master's in software engineering with data analytics at the University of Limerick, Ireland. I am a member of the PySlackers community which is an inclusive community for Python programmers. I am also a member of the MDN Web Docs community where I contribute to making an outstanding resource for developers who use the open web technologies. In addition, I contribute to open source projects such as Flask.
+![alt text](hackathon.JPG)
 
-📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dkmdebugin/).
+<hr />
 
-😄 Pronouns: he/him
+<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+* Fresh first class graduate from a master's degree in software engineering
+* Winner of the JnJ 2020 #CodeItUp hackathon
+* Programming languages: Python, JavaScript, Java, Bash, Go
+* Other technologies: Linux, AWS, GCP, MySQL
+* Open source communities: PySlackers, MDN Web Docs
+* Open source contributions: Flask
+* I’m currently  working on getting Linux+ certified
+* I'm looking to collaborate on open source projects
+* Ask me about anything, I'll be happy to help.
+* 😄 Pronouns: He/him
+* 📫 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/dkmdebugin/).
