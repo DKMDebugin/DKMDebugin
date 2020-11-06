@@ -5,7 +5,9 @@ Software Development | Cloud/DevOps | Machine Learning
 
 <hr />
 
-<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
+My #dev summary goes as follows;
 
 * Fresh first class graduate from a master's degree in software engineering
 * Winner of the JnJ 2020 #CodeItUp hackathon
