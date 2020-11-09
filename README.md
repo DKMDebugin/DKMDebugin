@@ -15,7 +15,7 @@ My #dev summary goes as follows;
 * Other technologies: Linux, AWS, GCP, MySQL
 * Open source communities: PySlackers, MDN Web Docs
 * Open source contributions: Flask
-* I’m currently  working on getting Linux+ certified
+* I’m currently  working on getting Linux+, Docker, and Kubernetes certified
 * I'm looking to collaborate on open source projects
 * Ask me about anything, I'll be happy to help.
 * 😄 Pronouns: He/him
