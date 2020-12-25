@@ -11,7 +11,7 @@ My #dev summary goes as follows;
 
 * Fresh first class graduate from a master's degree in software engineering
 * Winner of the JnJ 2020 #CodeItUp hackathon
-* Programming languages: Python, JavaScript, Java, Bash, Go
+* Programming languages: Java, Python, JavaScript, Bash, Golang
 * Other technologies: Linux, AWS, GCP, MySQL
 * Open source communities: PySlackers, MDN Web Docs
 * Open source contributions: Flask
